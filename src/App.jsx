@@ -1,10 +1,12 @@
 import { useState } from "react";
 import "./output.css";
-import TButton from "./components/Button";
+import Hero from "./components/hero";
+import Options from "./components/Options";
 
 function App() {
-  return <div>
-    
+  return <div className="bg-gray-100 overflow-y-hidden">
+    <Hero />  
+    <Options />
   </div>;
 }
 
