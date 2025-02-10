@@ -14,7 +14,7 @@ export default function Hero() {
       </div>
 
       <div className="max-w-xs md:max-w-3xl lg:max-w-7xl mx-auto">
-        <TButton label="Check Balance" icon={<FaWallet />} className="w-full mt-4 rounded-md bg-[#FFD65A] text-[#3674B5] font-semibold py-3" />
+        <TButton label="Check Balance" icon={<FaWallet />} className="w-full mt-4 rounded-md bg-[#FFD65A] text-[#3674B5] font-semibold py-3 cursor-pointer" />
       </div>
     </div>
   );

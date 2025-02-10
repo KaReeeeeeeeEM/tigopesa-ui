@@ -1,0 +1,25 @@
+{
+    "short_name": "TigoPesa App",
+    "name": "TigoPesa UI | Enhanced UI for Visually Impaired People",
+    "icons": [
+      {
+        "src": "/logo-192x192.png",
+        "type": "image/png",
+        "sizes": "192x192"
+      },
+      {
+        "src": "/logo-512x512.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      }
+    ],
+    "id": "/?source=pwa",
+    "start_url": "/?source=pwa",
+    "background_color": "#FFD65A",
+    "display": "standalone",
+    "scope": "/",
+    "theme_color": "#FFD65A",
+    "shortcuts": [],
+    "description": "TigoPesa App UI for visual impaired individuals",
+    "screenshots": []
+  }

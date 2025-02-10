@@ -55,7 +55,7 @@ export default function Options() {
           key={category.id}
           label={category.name}
           icon={category.icon}
-          className="flex flex-col items-center justify-center border-b border-gray-200 py-10 rounded-md bg-white text-[#3674B5] lg:py-16"
+          className="flex flex-col items-center justify-center border-b border-gray-200 py-10 rounded-md bg-white text-[#3674B5] lg:py-16 cursor-pointer"
         />
       ))}
     </div>
