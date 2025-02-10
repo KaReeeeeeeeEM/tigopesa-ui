@@ -42,7 +42,7 @@ const Categories = [
     }, 
     {
         id: 8,
-        name: 'My Actitivities',
+        name: 'My Activities',
         icon: <MdFileOpen />,
     }
 ]
