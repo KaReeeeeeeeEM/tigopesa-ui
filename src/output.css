@@ -517,7 +517,17 @@
     display: none !important;
   }
 }
-@layer utilities;
+@layer utilities {
+  .h-screen {
+    height: 100vh;
+  }
+  .w-full {
+    width: 100%;
+  }
+  .bg-red-500 {
+    background-color: var(--color-red-500);
+  }
+}
 @keyframes spin {
   to {
     transform: rotate(360deg);
